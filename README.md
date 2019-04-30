@@ -12,8 +12,8 @@ Since this is a folder, you must use a MU Loader and I know of no better than th
 
 ### via Composer
 
-1. Add a line to your repositories array: `{ "type": "vcs", "url": "https://github.com/webaxones/wax-remove-tags-taxonomy" }`
-2. Add a line to your require block: `"webaxones/wax-remove-tags-taxonomy": "dev-master"`
+1. Add a line to your repositories array: `{ "type": "vcs", "url": "https://github.com/webaxones/wax-remove-post-tags-product-tags" }`
+2. Add a line to your require block: `"webaxones/wax-remove-post-tags-product-tags": "dev-master"`
 3. Run: `composer update`
 
 ### Manual
