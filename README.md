@@ -5,7 +5,7 @@
 
 ## Features
 
-* This mu-plugin remove tags support for posts and WooCommerce products if WooCommerce exists. If a custom post type uses this taxonomy then it's intentional.
+* This mu-plugin remove tags support for posts and WooCommerce products if WooCommerce exists. For product tags, they are hidden using register_taxonomy because removing theme can cause error.
 
 ## Installation
 
