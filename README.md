@@ -1,5 +1,7 @@
 # WAX Remove Tags for Posts and WooCommerce Products
 
+*  Special thanks to Indrek Kõnnussaar https://codelight.eu/removing-product-tag-taxonomy-in-woocommerce/ for product tags
+
 
 ## Features
 
