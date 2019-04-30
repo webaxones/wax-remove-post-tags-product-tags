@@ -1,14 +1,8 @@
 # WAX Remove Tags for Posts and WooCommerce Products
 
-Users often forget to respect the structure of the document they write.  
-Especially since HTML5 allows a more complex hierarchy (multiple h1 tags).  
-Defining a structure based on a single title h1 makes it possible to limit the damage.  
-This mu-plugin remove h1 tags from editor : only h1 tags defined by programming or in dedicated modules will go through.
-
 
 ## Features
 
-* This mu-plugin remove tags support for posts and WooCommerce products
 * This mu-plugin remove tags support for posts and WooCommerce products if WooCommerce exists. If a custom post type uses this taxonomy then it's intentional.
 
 ## Installation
