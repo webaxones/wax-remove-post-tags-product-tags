@@ -1,15 +1,15 @@
 {
-    "name": "Webaxones/wax-remove-post-tags-product-tags",
-    "description": "Remove Tags support from Posts and WooCommerce Products",
-    "license": "GPL-2.0",
-    "authors": [
-        {
-            "name": "Webaxones",
-            "email": "contact@webaxones.com"
-        }
-    ],
-    "type": "wordpress-muplugin",
-    "require": {
-        "composer/installers": "~1.0"
-    }
+	"name": "Webaxones/wax-remove-post-tags-product-tags",
+	"description": "Remove Tags support from Posts and WooCommerce Products",
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "Webaxones",
+			"email": "contact@webaxones.com"
+		}
+	],
+	"type": "wordpress-muplugin",
+	"require": {
+		"composer/installers": "^1.0 || ^2.0"
+	}
 }
